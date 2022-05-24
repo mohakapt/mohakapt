@@ -16,3 +16,11 @@ Checkout some of my open-source ⛄️ projects here:
 - 📝 [react-native-js-tableview](https://github.com/mohakapt/react-native-js-tableview) - a react native table view component that look and feel like the native one for both Android and iOS.
 
 Also checkout my ❓ [StackOverflow](https://stackoverflow.com/users/1839334/heysem-katibi), 🔗 [LinkedIn](https://www.linkedin.com/in/heysem-katibi-51765a61/), and 🐤 [Twitter](https://twitter.com/heysem_k) profiles, and if you play chess maybe send me a challange on ♟ [Lichess](https://lichess.org/@/mohakapt).
+
+<hr/>
+
+I'm currently designing illustrations and explanitory material for an open-source article explaining machine learning and artificial intelligence fundamentals, Check it out [here](https://github.com/RiadKatby/machine-learning-models/blob/main/machine-learning-for-everyone.md) if you're interested in learning about AI. (It's in Arabic)
+<br/> <br/>
+<p align="center">
+  <img src="easy_ai.png" alt="AI For everyone"/>
+</p>
