@@ -15,12 +15,15 @@ Checkout some of my open-source ⛄️ projects here:
 - 🌟 RatingStart ([Android](https://github.com/mohakapt/ratingStar-android), [iOS](https://github.com/mohakapt/ratingStar-ios)) - an implementation of a beautiful consept (not mine) of rating view as a star shape.
 - 📝 [react-native-js-tableview](https://github.com/mohakapt/react-native-js-tableview) - a react native table view component that look and feel like the native one for both Android and iOS.
 
-Also checkout my ❓ [StackOverflow](https://stackoverflow.com/users/1839334/heysem-katibi), 🔗 [LinkedIn](https://www.linkedin.com/in/heysem-katibi-51765a61/), and 🐤 [Twitter](https://twitter.com/heysem_k) profiles, and if you play chess maybe send me a challange on ♟ [Lichess](https://lichess.org/@/mohakapt).
+Also checkout my 💬 [StackOverflow](https://stackoverflow.com/users/1839334/heysem-katibi), 🔗 [LinkedIn](https://www.linkedin.com/in/heysem-katibi-51765a61/), and 🐦 [Twitter](https://twitter.com/heysem_k) profiles, and if you play chess maybe send me a challange on ♟ [Lichess](https://lichess.org/@/mohakapt).
 
 <hr/>
 
-I'm currently designing illustrations and explanitory material for an open-source article explaining machine learning and artificial intelligence fundamentals, Check it out [here](https://github.com/RiadKatby/machine-learning-models/blob/main/machine-learning-for-everyone.md) if you're interested in learning about AI. (It's in Arabic)
-<br/> <br/>
-<p align="center">
-  <img src="easy_ai.png" alt="AI For everyone"/>
-</p>
+- 🔭 I'm currently designing [illustrations](https://github.com/mohakapt/mohakapt/blob/main/easy_ai.png) and explanitory material for an open-source article explaining machine learning and artificial intelligence fundamentals, Check it out [here](https://github.com/RiadKatby/machine-learning-models/blob/main/machine-learning-for-everyone.md) if you're interested in learning about AI. (It's in Arabic)
+
+- 🌱 I’m currently learning the basics of artificial intelligence and machiene learning.
+- 🤔 I’m looking for help with improving [Stringz](https://github.com/mohakapt/Stringz) app.
+- 💬 Ask me about Android, iOS, ReactNative and mobile development in general.
+- 📫 Reach out to me on [Twitter](https://twitter.com/heysem_k) or send me an [email](mailto:mohakapt@gmail.com).
+- ⚡ Fun fact: I started my coding journey with Visual Basic 6.0 when **GoTo** statements were still a thing.
+- ❝ Favorite quote: "Code is like humor. If you have to explain it, it’s bad." - Cory House
