@@ -23,15 +23,9 @@ Brief
 --
 
 - 🔭 I'm currently designing [illustrations](https://github.com/mohakapt/mohakapt/blob/main/easy_ai.png) and explanatory material for an open-source article explaining machine learning and artificial intelligence fundamentals, Check it out [here](https://github.com/RiadKatby/machine-learning-models/blob/main/machine-learning-for-everyone.md) if you're interested in learning about AI. (It's in Arabic)
-
 - 🌱 I’m currently learning the basics of artificial intelligence and machine learning.
-
 - 🤔 I’m looking for help with improving [Stringz](https://github.com/mohakapt/Stringz) app.
-
 - 💬 Ask me about Android, iOS, ReactNative, and mobile development in general.
-
 - 📫 Reach me out on [Twitter](https://twitter.com/heysem_k), Or drop me an [email](mailto:mohakapt@gmail.com).
-
 - ⚡ Fun fact: I started my coding journey with Visual Basic 6.0 when **GoTo** statements were still a thing.
-
 - ❝ Favorite quote: "Code is like humor. If you have to explain it, it’s bad." - Cory House
