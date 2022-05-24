@@ -30,7 +30,7 @@ Brief
 
 - 💬 Ask me about Android, iOS, ReactNative, and mobile development in general.
 
-- 📫 Reach me out [Twitter](https://twitter.com/heysem_k), Or drop me an [email](mailto:mohakapt@gmail.com).
+- 📫 Reach me out on [Twitter](https://twitter.com/heysem_k), Or drop me an [email](mailto:mohakapt@gmail.com).
 
 - ⚡ Fun fact: I started my coding journey with Visual Basic 6.0 when **GoTo** statements were still a thing.
 
