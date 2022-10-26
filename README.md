@@ -27,5 +27,6 @@ Brief
 - 🤔 I’m looking for help with improving [Stringz](https://github.com/mohakapt/Stringz) app.
 - 💬 Ask me about Android, iOS, ReactNative, and mobile development in general.
 - 📫 Reach me out on [Twitter](https://twitter.com/heysem_k), Or drop me an [email](mailto:mohakapt@gmail.com).
+- 🖥️ You can also find me in your terminal, Just run `npx heysem`
 - ⚡ Fun fact: I started my coding journey with Visual Basic 6.0 when **GoTo** statements were still a thing.
 - ❝ Favorite quote: "Code is like humor. If you have to explain it, it’s bad." - Cory House
