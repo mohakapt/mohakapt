@@ -13,7 +13,7 @@ These are some of the projects I made and most proud 🫶 of:
 I also love GitHub and its entire community 🥰, It never ceases to amaze me to see how projects evolve rapidly when everyone gives a hand so I constantly try to work on contributing to open-source projects.
 
 Check out some of my open-source ⛄️ projects here:
-- 💭 [Stringz](https://github.com/mohakapt/Stringz) - a lightweight editor for localizable XCode projects.
+- 💭 [Stringz](https://github.com/mohakapt/Stringz) - a lightweight editor for localizable Xcode projects.
 - 🌟 RatingStart ([Android](https://github.com/mohakapt/ratingStar-android), [iOS](https://github.com/mohakapt/ratingStar-ios)) - an implementation of a beautiful concept (not mine) of rating view as a star shape.
 - 📝 [react-native-js-tableview](https://github.com/mohakapt/react-native-js-tableview) - a react native table view component that looks and feels like the native one for both Android and iOS.
 
