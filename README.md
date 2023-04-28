@@ -17,7 +17,7 @@ Please find some of my open-source ❄️ projects below:
 - 🌟 RatingStart ([Android](https://github.com/mohakapt/ratingStar-android), [iOS](https://github.com/mohakapt/ratingStar-ios)) - An implementation of an aesthetically pleasing (not my original concept) rating view in the shape of a star.
 - 📝 [react-native-js-tableview](https://github.com/mohakapt/react-native-js-tableview) - A React Native table view component that replicates the look and feel of native Android and iOS versions.
 
-Additionally, please visit my 💬 [StackOverflow](https://stackoverflow.com/users/1839334/heysem-katibi), 🔗 [LinkedIn](https://www.linkedin.com/in/heysem-katibi-51765a61/), and 🐦 [Twitter](https://twitter.com/heysem_k) profiles, and if you enjoy chess, maybe send me a challenge on ♟ [Lichess](https://lichess.org/@/mohakapt).
+Additionally, please visit my 💬 [StackOverflow](https://stackoverflow.com/users/1839334/heysem-katibi), 🔗 [LinkedIn](https://www.linkedin.com/in/heysem/), and 🐦 [Twitter](https://twitter.com/heysem_k) profiles, and if you enjoy chess, maybe send me a challenge on ♟ [Lichess](https://lichess.org/@/mohakapt).
 
 In Brief
 --
